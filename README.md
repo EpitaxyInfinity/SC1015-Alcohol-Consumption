@@ -54,7 +54,6 @@ The portion contains the source code for our entire analysis of the database
 ## What did we learn from this project?
 - The use of multiple linear regression model
 - How to filter out significant variables to use for model building
-- How to handle categorical variables for multiple linear regression model
 
 ## References
 - <https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?resource=download>
