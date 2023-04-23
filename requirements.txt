@@ -1,0 +1,2 @@
+statsmodels==0.13.5
+pyecharts==2.0.3
