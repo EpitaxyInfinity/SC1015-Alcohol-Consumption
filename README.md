@@ -6,15 +6,15 @@ This mini project for SC1015 (Introduction to Data Science & Artificial Intellig
 ## Walkthrough
 The portion contains the source code for our entire analysis of the database
 
-1. [Data Extraction & Cleaning](insert file url here)
-2. [Exploratory Data Analysis]
-3. [Linear Regression]
-4. [Requirements for running the Notebook]
+1. [Data Extraction & Cleaning](https://github.com/EpitaxyInfinity/SC1015-Alcohol-Consumption/blob/main/Data%20Cleaning.ipynb)
+2. [Exploratory Data Analysis](https://github.com/EpitaxyInfinity/SC1015-Alcohol-Consumption/blob/main/Exploratory%20Data%20Analysis.ipynb)
+3. [Linear Regression](https://github.com/EpitaxyInfinity/SC1015-Alcohol-Consumption/blob/main/Linear%20Regression.ipynb)
+4. [Requirements for running the Notebook](https://github.com/EpitaxyInfinity/SC1015-Alcohol-Consumption/blob/main/requirements.txt)
 
 ## Contributors
-- Liu Xinyi - 
-- Sarah Soon Hui En -
-- Lim Jun Wei Ruben -
+- Liu Xinyi - Data Analysis, Conclusion
+- Sarah Soon Hui En - Presentation Slides, Data Preparation, Data Analysis
+- Lim Jun Wei Ruben - Data Preparation, Project Presentation
 
 ## Problem Definition
 1. How does alcohol consumption influence the grades of students?
@@ -50,9 +50,9 @@ The portion contains the source code for our entire analysis of the database
 - Alcohol consumption has a small effect on students’ grades
 - Other factors like study time & parents' education level also play an equal or more significant part to determining academic performance
 
-
 ## What did we learn from this project?
-
+- The use of multiple linear regression model compared to single linear regression
+- 
 
 ## References
 - <https://www.kaggle.com/datasets/uciml/student-alcohol-consumption?resource=download>
