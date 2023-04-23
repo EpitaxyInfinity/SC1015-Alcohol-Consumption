@@ -48,7 +48,8 @@ The portion contains the source code for our entire analysis of the database
 
 ## Conclusion
 - Alcohol consumption has a small effect on students’ grades
-- Other factors like study time & parents' education level also play an equal or more significant part to determining academic performance
+- Other factors like study time play an equal or more significant part to determining academic performance
+- High correlation of father and mother’s education also implies that the students’ family background can also heavily influence academic performance
 
 ## What did we learn from this project?
 - The use of multiple linear regression model
