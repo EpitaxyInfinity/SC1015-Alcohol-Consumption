@@ -13,8 +13,8 @@ The portion contains the source code for our entire analysis of the database
 
 ## Contributors
 - Liu Xinyi - Data Analysis, Conclusion
-- @yuusuno Sarah Soon Hui En - Presentation Slides, Data Preparation, Data Analysis
-- @EpitaxyInfinity Lim Jun Wei Ruben - Data Preparation, Project Presentation
+- Sarah Soon Hui En @yuusuno - Presentation Slides, Data Preparation, Data Analysis
+- Lim Jun Wei Ruben @EpitaxyInfinity - Data Preparation, Project Presentation
 
 ## Problem Definition
 1. How does alcohol consumption influence the grades of students?
